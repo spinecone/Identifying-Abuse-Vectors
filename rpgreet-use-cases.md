@@ -14,7 +14,11 @@ RPGreet grafts the familiar mechanics of role playing games onto the messy, chao
 
 * Even if a prospective partner doesn't have an RPGreet account yet, our advanced cloud-based machine-learning algorithms can compute their likely score based on their speech and mannerisms.
 
-* Getting dates can be tough as a Level 1, so opt for our Premium Edition to craft your own customized persona, complete with dating histories and reviews you write yourself.
+![](/assets/Screen Shot 2018-03-23 at 12.06.17 AM.png)
+
+* Getting dates can be tough as a Level 1, so opt for our Premium Edition to make your own customized persona, complete with dating histories and reviews you invent for yourself.
+
+* Craft in-game gifts for people you're interested in that will be displayed on their public profile. Get that lovely wizard lady in your life a nice bouquet of !
 
 
 
