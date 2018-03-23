@@ -18,7 +18,9 @@ RPGreet grafts the familiar mechanics of role playing games onto the messy, chao
 
 * Getting dates can be tough as a Level 1, so opt for our Premium Edition to make your own customized persona, complete with dating histories and reviews you invent for yourself.
 
-* Craft in-game gifts for people you're interested in that will be displayed on their public profile. Get that lovely wizard lady in your life a nice bouquet of !
+![](/assets/Screen Shot 2018-03-23 at 12.20.20 AM.png)
+
+* Craft in-game gifts for people you're interested in that will be displayed on their public profile. Everyone will know how much that lovely wizard lady in your life means to you once they see the bouquet of magic flowers you bought her!
 
 
 
