@@ -5,4 +5,5 @@
 * [Pokédex Use Cases](pokedex-use-cases.md)
 * [Pip-Boy Use Cases](pip-boy-use-cases.md)
 * [Holo-Doctor Use Cases](holographic-doctor-use-cases.md)
+* [RPGreet Use Cases](rpgreet-use-cases.md)
 
