@@ -18,7 +18,9 @@ The RobCo Pip-Boy \(Personal Information Processor\) is a portable computer worn
 
 * It's no problem getting set up with a new Pip-Boy. Pip-Boys can be removed at any time, and can be found or traded between users, and installation is as simple as putting it on your wrist and turning it on.
 
-* Automatically records videos of events that seem important to the user
+
+
+* Automatically makes video and audio recordings of events that seem important to the user
 
 Sources:
 
