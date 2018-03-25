@@ -1,3 +1,5 @@
+# Holographic Doctor Features
+
 ![](/assets/Screen Shot 2018-03-22 at 9.51.18 PM.png)
 
 The Emergency Medical Holographic program is designed to provide short-term medical assistance on starships where a full medical crew is not available. It appears as a holographic image of the program's creator.
