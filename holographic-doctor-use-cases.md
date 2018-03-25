@@ -32,7 +32,7 @@ The EMH program is capable of modifying its software to add exciting new feature
 
 ![](/assets/Screen Shot 2018-03-22 at 11.18.44 PM.png)
 
-* If you are unconscious or otherwise unable to provide your medical history prior to a procedure, the EMH program will make a holographic copy of your body and transmit your brain waves to it. This way, it can interview the hologram version of yourself while your physical body is in stasis. The hologram is also qualified to consent on your behalf.
+If you are unconscious or otherwise unable to provide your medical history prior to a procedure, the EMH program will make a holographic copy of your body and transmit your brain waves to it. This way, it can interview the hologram version of yourself while your physical body is in stasis. The hologram is also qualified to consent on your behalf.
 
 
 
