@@ -1,8 +1,10 @@
+# Pokedex Features
+
 ![](/assets/Screen Shot 2018-03-21 at 11.03.56 PM.png)
 
 In order to accomplish Professor Oak's goal of a complete Pokemon database, the Pokedex is designed to find and record data on each Pokemon the user meets.
 
-Pokedex use cases:
+## Adding new entries to the Pokedex
 
 ![](/assets/jiggly.png)
 
