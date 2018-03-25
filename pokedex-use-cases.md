@@ -4,7 +4,7 @@
 
 In order to accomplish Professor Oak's goal of a complete Pokemon database, the Pokedex is designed to find and record data on each Pokemon the user meets.
 
-## Adding new entries to the Pokedex
+### Adding new entries to the Pokedex
 
 ![](/assets/jiggly.png)
 
