@@ -1,3 +1,5 @@
+# Pip-Boy Features 
+
 ![](/assets/Screen Shot 2018-03-21 at 11.26.03 PM.png)
 
 The RobCo Pip-Boy \(Personal Information Processor\) is a portable computer worn on the user's left forearm. Designed for exploration and survival in harsh environments, it acts as a database for the user's personal information and inventory, as well as a tool for navigation.
