@@ -16,5 +16,5 @@ Some common ways to address abuse vectors are:
 
 * **Add moderation **\(it's too complicated to write a program to prevent abuse of this feature, so let's get some humans to figure it out for us on a case-by-case basis\)
 
-
+These options can be divided into two categories: tools that **automatically** prevent or penalize harassment, and tools that **empower humans** to do so.
 
