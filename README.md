@@ -4,5 +4,5 @@ This is a workshop for software developers who are interested in making sure tha
 
 ## Credits {#credits}
 
-This tutorial was written by [Terian Koscik](https://twitter.com/spine_cone) for [RailsConf 2018](http://railsconf.com/). You can view the source at GitHub (link TBD).
+This tutorial was written by [Terian Koscik](https://twitter.com/spine_cone) for [RailsConf 2018](http://railsconf.com/). You can view the source at You can view the source at [https://github.com/spinecone/Identifying-Abuse-Vectors](https://github.com/spinecone/Identifying-Abuse-Vectors).
 
