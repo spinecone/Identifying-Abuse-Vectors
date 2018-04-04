@@ -22,5 +22,4 @@ We could let her outside under supervision: <br><img src="/assets/grass.png" hei
 
 Or we could let her do whatever she wants, but always spray her with a hose when she's bad so that she'll reconsider being bad in the future.
 
-Every feature in a software application is a potential "hole" that a cat (user) could climb through to harass another cat (user). For our purposes today, it's not important to consider why this cat/user would bother doing that; if they are sufficiently bored or motivated, they're going to do it. Whenever you're considering adding a shiny new window to your house, always think about how a bored cat could find a way to climb through.
- 
+Every feature in a software application is a potential "hole" that a cat (user) could climb through to harass another cat (user). For our purposes today, it's not important to consider why this cat/user would bother doing that; if they are sufficiently bored or motivated, they're going to do it. Whenever you're considering adding a shiny new window to your house, always think about how a cat with bad intentions could find a way to climb through.
