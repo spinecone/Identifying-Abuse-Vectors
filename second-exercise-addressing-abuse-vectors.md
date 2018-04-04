@@ -18,9 +18,9 @@ Going back to the abuse vectors you identified in the last exercise, try to thin
 
 * **What are the tradeoffs being made? **Is this change going to make the product less fun? More confusing?
 
-* **How does this affect the business? \(revenue, PR, software engineering time, etc.\)**
+* **How does this affect the business? ** Could this affect** **revenue or public perception of the company?
 
-* **What alternatives are there?**
+* **What alternatives are there? **There should be at least one other option so that decision makers can weigh pros and cons
 
 
 
