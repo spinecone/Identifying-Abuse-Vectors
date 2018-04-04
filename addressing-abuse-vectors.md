@@ -16,5 +16,5 @@ Some common ways to address abuse vectors are:
 
 * **Add moderation **\(it's too complicated to write a program to prevent abuse of this feature, so let's get some humans to figure it out for us on a case-by-case basis\)
 
-
+There are pros and cons to every approach, but usually it comes down to what makes the most sense for the product. Even if it's a huge technical effort to make a feature less of an abuse vector, it might be a huge source of revenue for your company and not something that can just be removed or hidden for some people.
 
