@@ -9,5 +9,5 @@ You can read these articles to learn more about the psychology of online trolls:
 * [http://time.com/4457110/internet-trolls/](http://time.com/4457110/internet-trolls/)
 * [https://files.clr3.com/papers/2017\_anyone.pdf](https://files.clr3.com/papers/2017_anyone.pdf)
 
-I also like to think about modeling online behavior in the form of cats.![](/assets/indoor.png)
+I also like to think about modeling online behavior in the form of cats. <img src="/assets/indoor.png" width="100" height="200">
 
