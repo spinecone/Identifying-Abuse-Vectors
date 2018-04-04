@@ -1,8 +1,8 @@
 # Exercise 3: Empowering humans to prevent abuse
 
-There's a misconception that the ideal form of online abuse prevention would look like an all-seeing, all-powerful robot that either knows how to keep abuse from ever happening, or immediately punishes anyone who commits abuse.
+There's a misconception that the ideal form of online abuse prevention would look like an all-seeing, all-powerful robot that either knows how to keep abuse from ever happening, or immediately punishes anyone who commits abuse. In reality, some of the most important work of preventing and punishing abuse is done by people.
 
-For our last exercise, we'll use the abuse prevention tools that empower to humans to stop themselves and each other from harassing others. To review, those tools are:
+For our last exercise, we'll design abuse prevention tools that empower to humans to stop themselves and each other from harassing others. To review, those tools are:
 
 * **Intervene before, during, and after harassment**
 
@@ -10,5 +10,5 @@ For our last exercise, we'll use the abuse prevention tools that empower to huma
 
 * **Add moderation**
 
-These tools are useful for when it's just not possible or practical to alter features from their present state, even if they're abuse vectors. 
+These tools are useful for when it's just not possible or practical to alter features from their present state, even if they're abuse vectors.
 

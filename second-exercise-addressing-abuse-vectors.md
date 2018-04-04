@@ -22,5 +22,5 @@ Going back to the abuse vectors you identified in the last exercise, try to thin
 
 * **What alternatives are there? **There should be at least one other option so that decision makers can weigh pros and cons
 
-Take about 20 minutes to come up with at least 2 potential solutions for each abuse vector you identified. Use whatever medium makes the most sense to you. This could be text, drawings, a powerpoint presentation, puppet show, or whatever else you can think of.
+Take about 20 minutes to come up with at least 3 potential solutions for some of the abuse vectors you identified. Use whatever medium makes the most sense to you. This could be text, drawings, a powerpoint presentation, puppet show, or whatever else you can think of.
 
