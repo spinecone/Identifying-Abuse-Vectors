@@ -1,4 +1,4 @@
-# Exercise 2: Automated abuse prevention
+# Exercise 2: Implicitly preventing abuse
 
 The options we discussed for addressing abuse vectors can be divided into two categories: tools that **implicitly** prevent harassment \(keeping harassment from happening in the first place\), and tools that **empower humans** to do so \(allowing other users to punish harassers, and giving harassers the ability to reconsider or regret their behavior\). For this exercise, we're just going to focus on the **implicit tools**, which
 
