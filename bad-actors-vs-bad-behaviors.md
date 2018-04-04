@@ -14,5 +14,7 @@ My cat Unix is an indoor cat because even though she is usually very good and ki
 
 <img src="/assets/goodcat.png" width="350" height="250"><img src="/assets/badcat.png" width="350" height="250">
 
-There are a few ways we could handle Unix being a jerk to other cats. We could board up all the doors in the house so no one could ever leave, but that would be difficult because I need to leave sometimes to buy food and other stuff. <img src="/assets/boards.png" height="300" width="200">
+There are a few ways we could handle Unix being a jerk to other cats. We could board up all the doors in the house so no one could ever leave, but that would be difficult because I need to leave sometimes to buy food and other stuff: <img src="/assets/boards.png" height="300" width="200">
+
+We could put up a small gate so that human-sized creatures can step over the gate, but cat-sized ones won't be able to: <img src="/assets/outside.png" height="300" width="20">
 
