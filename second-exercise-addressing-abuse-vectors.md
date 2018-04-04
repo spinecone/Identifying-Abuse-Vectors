@@ -10,5 +10,17 @@ The options we discussed for addressing abuse vectors can be divided into two ca
 
 * **Don't keep data you don't need**
 
-Going back to the abuse vectors you identified in the last exercise,
+Going back to the abuse vectors you identified in the last exercise, try to think of solutions to them using these principles. The components of a solution to an abuse vector looks pretty much like any software feature proposal. You'll want to make sure you've thought about:
+
+* **How does this address the abuse vector?** Is there** **any way around it if someone is persistent or clever enough?
+
+* **What are the changes to the UI? **Is this going to be a drastic change? Will users need help navigating the new design?
+
+* **What are the tradeoffs being made? **Is this change going to make the product less fun? More confusing?
+
+* **How does this affect the business? \(revenue, PR, software engineering time, etc.\)**
+
+* **What alternatives are there?**
+
+
 
