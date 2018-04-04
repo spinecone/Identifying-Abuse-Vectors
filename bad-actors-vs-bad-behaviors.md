@@ -9,7 +9,7 @@ You can read these articles to learn more about the psychology of online trolls:
 * [http://time.com/4457110/internet-trolls/](http://time.com/4457110/internet-trolls/)
 * [https://files.clr3.com/papers/2017\_anyone.pdf](https://files.clr3.com/papers/2017_anyone.pdf)
 
-I also like to think about modeling online behavior in the form of cats. <img src="/assets/indoor.png" width="300" height="300">
+I also like to think about modeling online behavior in the form of cats. <img src="/assets/indoor.png" width="300" height="300"><br>
 My cat Unix is an indoor cat because even though she is usually very good and kind, she cannot be trusted outdoors. This is because her two favorite activities are sitting on laps, and attacking other cats who have done nothing to provoke her.
 
 <img src="/assets/goodcat.png"><img src="/assets/badcat.png">
