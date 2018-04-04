@@ -9,4 +9,5 @@
 * [Exercise 3: Empowering humans to prevent abuse](exercise-3-empowering-humans-to-prevent-abuse.md)
 * [Pokédex Use Cases](pokedex-use-cases.md)
 * [Pip-Boy Use Cases](pip-boy-use-cases.md)
+* [Acknowledgements](acknowledgements.md)
 
