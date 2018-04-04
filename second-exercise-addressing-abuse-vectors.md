@@ -1,6 +1,6 @@
 # Exercise 2: Automated abuse prevention
 
-The options we discussed for addressing abuse vectors can be divided into two categories: tools that **automatically** prevent or penalize harassment, and tools that **empower humans** to do so. For this exercise, we're just going to focus on the **automatic tools**, making anti-harassment robots to do our work for us:
+The options we discussed for addressing abuse vectors can be divided into two categories: tools that **implicitly** prevent harassment \(keeping harassment from happening in the first place\), and tools that **empower humans** to do so \(allowing other users to punish harassers, and giving harassers the ability to reconsider or regret their behavior\). For this exercise, we're just going to focus on the **implicit tools**, which
 
 * **Take out the feature**
 
@@ -22,5 +22,5 @@ Going back to the abuse vectors you identified in the last exercise, try to thin
 
 * **What alternatives are there? **There should be at least one other option so that decision makers can weigh pros and cons
 
-Try to come up with at least 2 potential solutions for each abuse vector you identified. Use whatever medium makes the most sense to you. This could be text, drawings, a powerpoint presentation, puppet show, or whatever else you can think of.
+Take about 20 minutes to come up with at least 2 potential solutions for each abuse vector you identified. Use whatever medium makes the most sense to you. This could be text, drawings, a powerpoint presentation, puppet show, or whatever else you can think of.
 
