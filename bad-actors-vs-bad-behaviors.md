@@ -18,4 +18,4 @@ There are a few ways we could handle Unix being a jerk to other cats. We could b
 
 We could put up a small gate so that human-sized creatures can step over the gate, but cat-sized ones won't be able to: <img src="/assets/outside.png" height="300" width="300">
 
-We could ![](/assets/grass.png)
+We could let her outside under supervision: ![](/assets/grass.png)
