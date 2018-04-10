@@ -1,6 +1,6 @@
 # Welcome to Identifying Abuse Vectors in Web Applications!
 
-<img src="/assets/vectors.png">
+<img src="/assets/vectors.png" height="350" width="300">
 
 This is a workshop for software developers who are interested in making sure that the software they work on can't be used to harass or otherwise harm its users. We're going to look at some examples of fictional software and see how they could be used for abuse and harassment. Then, we'll make proposals for how to address these abuse vectors without compromising the functionality of the application. After that, you'll be able to approach real life projects with an eye for how to keep users safe.
 
