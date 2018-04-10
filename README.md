@@ -1,4 +1,4 @@
-# Welcome to Identifying Abuse Vectors in Web Applications!
+# Welcome to Identifying Abuse Vectors!
 
 <center><img src="/assets/vectors.png" height="350" width="450"></center>
 
