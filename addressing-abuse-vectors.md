@@ -1,6 +1,6 @@
 # Addressing abuse vectors
 
-Some common ways to address abuse vectors are:
+For the remaining exercises, we're going to work on proposing solutions to the abuse vectors we just identified. Some common ways to address abuse vectors are:
 
 * **Take out the feature** \(you can't abuse what doesn't exist! Many news websites have removed their comments sections after realizing how much abuse and harassment takes place in them.\)
 * **Reduce interaction** \(users could still interact with this feature, but their speech is filtered or limited in some other way. The online game "Hearthstone" only allows players to communicate with pre-set phrases like "Greetings" and "Threaten."\)
