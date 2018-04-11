@@ -2,7 +2,7 @@
 
 Some common ways to address abuse vectors are:
 
-* **Take out the feature** \(you can't abuse what doesn't exist! \[points to head.gif\] \)
+* **Take out the feature** \(you can't abuse what doesn't exist! \)
 
 * **Reduce interaction** \(users could still interact with this feature, but their speech is filtered or limited in some other way\)
 
