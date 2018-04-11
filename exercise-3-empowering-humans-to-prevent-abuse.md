@@ -9,9 +9,7 @@ People can also be empowered to keep themselves from harassing others. This can 
 For our last exercise, we'll design abuse prevention tools that empower to humans to stop themselves and each other from harassing others. To review, those tools are:
 
 * **Intervene before, during, and after harassment**
-
 * **Make it opt-in**
-
 * **Add moderation**
 
 These tools are useful for when it's just not possible or practical to alter features from their present state, even if they're abuse vectors.
