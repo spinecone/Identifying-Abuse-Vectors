@@ -16,5 +16,5 @@ For our last exercise, we'll design abuse prevention tools that empower to human
 
 These tools are useful for when it's just not possible or practical to alter features from their present state, even if they're abuse vectors.
 
-Take about 20 minutes to design tools for moderating, discouraging bad behavior before it occurs, and punishing users who have harassed so they'll be less likely to do it again.
+Take about 15 minutes to design tools for moderating, discouraging bad behavior before it occurs, and punishing users who have harassed so they'll be less likely to do it again.
 
