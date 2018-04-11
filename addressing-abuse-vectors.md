@@ -2,8 +2,7 @@
 
 For the remaining exercises, we're going to work on proposing solutions to the abuse vectors we just identified. Some common ways to address abuse vectors are:
 
-* **Take out the feature** \(you can't abuse what doesn't exist! Many news websites have <a href="https://www.wired.com/2015/10/brief-history-of-the-demise-of-the-comments-timeline/
-">removed their comments sections</a> after realizing how much abuse and harassment takes place in them.\)
+* **Take out the feature** \(you can't abuse what doesn't exist! Many news websites have <a href="https://www.wired.com/2015/10/brief-history-of-the-demise-of-the-comments-timeline/">removed their comments sections</a> after realizing how much abuse and harassment takes place in them.\)
 * **Reduce interaction** \(users could still interact with this feature, but their speech is filtered or limited in some other way. The online game "Hearthstone" only allows players to communicate with <a href="https://hearthstone.gamepedia.com/Emote">pre-set phrases</a> like "Greetings" and "Threaten."\)
 * **Reduce visibility** \(this feature can only be used by certain people or only under certain circumstances. Twitch allows users to <a href="https://help.twitch.tv/customer/portal/articles/2401004-partner-settings-guide
 ">limit chat</a> on their video streams to people who have subscribed to their channel, usually for a fee.\)
