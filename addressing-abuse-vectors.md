@@ -2,8 +2,8 @@
 
 Some common ways to address abuse vectors are:
 
-* **Take out the feature** \(you can't abuse what doesn't exist! \)
-* **Reduce interaction** \(users could still interact with this feature, but their speech is filtered or limited in some other way\)
+* **Take out the feature** \(you can't abuse what doesn't exist! Many news websites have removed their comments sections after realizing how much abuse and harassment takes place in them.\)
+* **Reduce interaction** \(users could still interact with this feature, but their speech is filtered or limited in some other way. The online game "Hearthstone" only allows players to communicate with pre-set phrases like "Greetings" and "Threaten."\)
 * **Reduce visibility** \(this feature can only be used by certain people or only under certain circumstances\)
 * **Don't keep data you don't need** \(this data could be used to hurt people, do we really need to hang on to it?\)
 * **Intervene before, during, and after harassment **\(software that either gently encourages people not to be abusive or exacts swift punishment when they do\)
