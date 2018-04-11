@@ -6,7 +6,7 @@ Some common ways to address abuse vectors are:
 * **Reduce interaction** \(users could still interact with this feature, but their speech is filtered or limited in some other way. The online game "Hearthstone" only allows players to communicate with pre-set phrases like "Greetings" and "Threaten."\)
 * **Reduce visibility** \(this feature can only be used by certain people or only under certain circumstances. Twitch allows users to limit chat on their video streams to people who have subscribed to their channel, usually for a fee.\)
 * **Don't keep data you don't need** \(this data could be used to hurt people, do we really need to hang on to it? ProtonVPN has a great and detailed privacy policy describing what kinds of data they keep and why, as well as the kinds of data they don't keep.\)
-* **Intervene before, during, and after harassment **\(software that either gently encourages people not to be abusive or exacts swift punishment when they do\)
+* **Intervene before, during, and after harassment **\(software that either gently encourages people not to be abusive or exacts swift punishment when they do. On Reddit, if you post something other people don't think is appropriate, they might downvote the post to encourage you to edit it. Eventually, if it gets enough downvotes, it will be hidden from view, or even deleted. If you keep posting controversial things you might get banned.\)
 * **Make it opt-in **\(some people are ok with the possibility that they might be harassed, but others aren't\)
 * **Add moderation **\(it's too complicated to write a program to prevent abuse of this feature, so let's get some humans to figure it out for us on a case-by-case basis\)
 
