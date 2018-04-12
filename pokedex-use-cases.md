@@ -4,6 +4,10 @@
 
 The Pokedex is a digital encyclopedia created by Professor Oak as an invaluable tool to Pokemon trainers. In order to accomplish Professor Oak's goal of a complete Pokemon database, the Pokedex is designed to find and record data on each Pokemon the user meets.
 
+A note about consent in the Pokemon world: you can think of Pokemon as either
+- Sentient beings who deserve to be asked for consent in how they are treated
+- The property of humans, who deserve to be asked for consent of how their property is treated
+
 ### Adding new entries to the Pokedex
 
 ![](/assets/jiggly.png)
