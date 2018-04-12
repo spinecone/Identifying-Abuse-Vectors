@@ -7,9 +7,9 @@
 * [Addressing abuse vectors](addressing-abuse-vectors.md)
 * [Exercise 2: Implicitly preventing abuse](second-exercise-addressing-abuse-vectors.md)
 * [Exercise 3: Empowering humans to prevent abuse](exercise-3-empowering-humans-to-prevent-abuse.md)
-* [Pokédex Use Cases](pokedex-use-cases.md)
-* [Pip-Boy Use Cases](pip-boy-use-cases.md)
 * [Holographic Doctor Use Cases](holographic-doctor-use-cases.md)
+* [Pip-Boy Use Cases](pip-boy-use-cases.md)
+* [Pokédex Use Cases](pokedex-use-cases.md)
 * [RPGreet Use Cases](rpgreet-use-cases.md)
 * [Acknowledgements](acknowledgements.md)
 
