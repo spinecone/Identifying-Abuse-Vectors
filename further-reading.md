@@ -1,8 +1,7 @@
 # Further reading
 
 This list is shamelessly copied from the "recommended reading" list maintained by the Community and Safety team at GitHub 💖
-
-## Studies 
+## Studies
 * [Anyone can be a troll](https://files.clr3.com/papers/2017_anyone.pdf) - Shorter version [here](https://theconversation.com/our-experiments-taught-us-why-people-troll-72798)
   * Study done on how mood and environment can turn anyone into a troll
 * [Are sex differences in antisocial and prosocial Facebook use explained by narcissism and relational self-construal?](http://ac.els-cdn.com/S0747563217305010/1-s2.0-S0747563217305010-main.pdf?_tid=f12905b4-9c96-11e7-a9d9-00000aab0f26&acdnat=1505755956_9fc441fc5ff26de802b53bea469eb4b8) - Shorter version [here](http://www.huffingtonpost.com/entry/study-facebook-trolls-are-just-narcissist-men-with-internet-access_us_59babdede4b086432b05336d)
