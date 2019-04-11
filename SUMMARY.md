@@ -10,6 +10,7 @@
 * [Holographic Doctor Use Cases](holographic-doctor-use-cases.md)
 * [Pip-Boy Use Cases](pip-boy-use-cases.md)
 * [Pokédex Use Cases](pokedex-use-cases.md)
+* [Download-a-Celebrity Use Cases](download-a-celebrity-use-cases.md)
 * [RPGreet Use Cases](rpgreet-use-cases.md)
 * [Acknowledgements](acknowledgements.md)
 * [Further reading](further-reading.md)
